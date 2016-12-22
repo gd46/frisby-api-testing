@@ -4,7 +4,8 @@
   "description": "Frisby Api Testing POC",
   "main": "test_spec.js",
   "scripts": {
-    "test": "jasmine-node test_spec.js"
+    "test": "jasmine-node ./specs",
+    "test-file": "jasmine-node ./specs/test_spec.js"
   },
   "author": "Giuseppe",
   "license": "ISC",
