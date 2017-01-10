@@ -12,6 +12,7 @@
   "dependencies": {
     "frisby": "latest",
     "jasmine-expect": "^3.0.1",
-    "jasmine-node": "latest"
+    "jasmine-node": "latest",
+    "mustache": "^2.3.0"
   }
 }

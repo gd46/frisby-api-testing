@@ -1,5 +1,5 @@
 var frisby = require('frisby');
-require('jasmine-expect')
+require('jasmine-expect');
 
 frisby.create('GET JSON data from an endpoint')
   .get('https://api.github.com/users/gd46/repos',
